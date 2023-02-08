@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+}
+
+ul{
+    color:aqua;
+    font-size: 2em;
+    margin-top: 5em;
+    border: .8em solid pink;
+}
+
+.content, .contentB{
+background-color: purple;
+}
